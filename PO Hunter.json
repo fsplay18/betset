@@ -1,0 +1,26 @@
+{
+    "PO Hunter": {
+        "Start PO": {
+            "Min": "80",
+            "Max": "100",
+            "Incrase bet after": {
+                "Win": "1",
+                "Lose": "1.01"
+            }
+        },
+        "Finding PO": {
+            "Target PO": "2",
+            "Within Roll": "3",
+            "Switch PO": {
+                "Min": "1.8",
+                "Max": "2",
+                "Multiple Base by": "500",
+                "Incrase bet after": {
+                    "Win": "1.1",
+                    "Lose": "1.9"
+                }
+            }
+        },
+        "Reset to base if Profit": "0.00000001"
+    }
+}

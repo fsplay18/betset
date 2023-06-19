@@ -1,0 +1,19 @@
+{
+    "Martingale": {
+        "Preroll": "0",
+        "Chance to Win": {
+            "Min": "45.5",
+            "Max": "47.5"
+        },
+        "Increase bet after": {
+            "Win": "1.05",
+            "Lose": "1.8"
+        },
+        "Reset to base if": {
+            "Win": "0",
+            "Lose": "0",
+            "Max Bet": "0",
+            "Profit": "0.00000001"
+        }
+    }
+}

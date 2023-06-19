@@ -1,0 +1,29 @@
+{
+    "Wager": {
+        "Target Wager(%)": "1000",
+        "Mode 1": {
+            "Status": "OFF",
+            "Chance to Win": "47.97"
+        },
+        "Mode 2": {
+            "Status": "OFF",
+            "Low Chance": "96.03",
+            "High Chance": "48.5",
+            "Multi Bet on LS": "2",
+            "Multi Factor": "2"
+        },
+        "Mode 3": {
+            "Status": "ON",
+            "Chance": "94",
+            "Big Chance": {
+                "Min": "91",
+                "Max": "93"
+            },
+            "Small Chance": {
+                "Min": "13",
+                "Max": "27"
+            },
+            "Multi": "1.23"
+        }
+    }
+}

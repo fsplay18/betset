@@ -1,0 +1,10 @@
+{
+    "Rumble-X6": {
+        "Chance to Win": {
+            "Min": "11",
+            "Max": "20"
+        },
+        "Chance Update (%)": "60",
+        "Multi Factor": "0.02"
+    }
+}

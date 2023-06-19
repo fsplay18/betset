@@ -1,0 +1,11 @@
+{
+    "RumbleNote": {
+        "Chance to Win": {
+            "Min": "8",
+            "Max": "33"
+        },
+        "Increase Bet on Lose": "1.55",
+        "Reset Chance after Lose": "10",
+        "Increase Bet after Reset Chance": "1.65"
+    }
+}

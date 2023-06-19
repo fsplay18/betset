@@ -1,0 +1,11 @@
+{
+    "Sprint": {
+        "Starting Chance": "47.5",
+        "Increase Chance (%)": "0.02",
+        "Increase on LS": "3",
+        "Increase bet after": {
+            "Win": "0.8",
+            "Lose": "1.85"
+        }
+    }
+}

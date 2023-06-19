@@ -1,0 +1,21 @@
+{
+    "R-Allemb": {
+        "Allemb Level": {
+            "Repeat": "2",
+            "Big": "10"
+        },
+        "Chance to Win 1": {
+            "Min": "45",
+            "Max": "50"
+        },
+        "Chance to Win 2": {
+            "Min": "15",
+            "Max": "25"
+        },
+        "Chance to Win 3": {
+            "Min": "35",
+            "Max": "45"
+        },
+        "Multi Factor (%)": "4"
+    }
+}

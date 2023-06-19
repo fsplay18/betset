@@ -1,0 +1,19 @@
+{
+    "Rumble-X1": {
+        "Chance on Win": {
+            "Min": "60",
+            "Max": "75"
+        },
+        "Chance on Lose": {
+            "Min": "10.5",
+            "Max": "16"
+        },
+        "Marti Bet on Lose": "1.1191",
+        "Marti Level 1": "0",
+        "Marti Level 2": "1",
+        "Marti Level 3": "1.4",
+        "Marti Level 4": "1.02",
+        "Breakpoint 1": "10",
+        "Breakpoint 2": "20"
+    }
+}

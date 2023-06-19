@@ -1,0 +1,23 @@
+{
+    "Rumble-X4": {
+        "Payout": {
+            "Min": "1.3",
+            "Max": "1.4",
+            "Decreasement": "0",
+            "Random PO": "True"
+        },
+        "Base": {
+            "Divider": "1000000",
+            "Marti": "50",
+            "Recalculate": "True"
+        },
+        "Postbet": {
+            "Divider": "100000",
+            "Marti": "60"
+        },
+        "Safeguard": {
+            "Cut Lose": "5",
+            "Divider": "0.5"
+        }
+    }
+}

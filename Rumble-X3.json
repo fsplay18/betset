@@ -1,0 +1,15 @@
+{
+    "Rumble-X3": {
+        "Chance to Win": {
+            "Min": "19",
+            "Max": "82"
+        },
+        "Risk (%)": "0.8",
+        "Reverse Flow": "False",
+        "Manual Divider": "500000",
+        "Auto Divider": {
+            "Status": "ON",
+            "Divider Level": "1.35"
+        }
+    }
+}

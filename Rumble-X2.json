@@ -1,0 +1,13 @@
+{
+    "Rumble-X2": {
+        "Target Divider": "10000",
+        "Big Chance": {
+            "Min": "80",
+            "Max": "90"
+        },
+        "Small Chance": {
+            "Min": "5",
+            "Max": "15"
+        }
+    }
+}

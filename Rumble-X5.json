@@ -1,0 +1,16 @@
+{
+    "Rumble-X5": {
+        "Chance to Win": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "Random Chance": "True",
+        "Pre Marti": "1.3",
+        "Post Marti": "1.06",
+        "Boost": "100",
+        "Delayer (ms)": "1000"
+    }
+}

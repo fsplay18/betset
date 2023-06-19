@@ -1,0 +1,13 @@
+{
+    "JackHunter": {
+        "Chance to Win": {
+            "Min": "10",
+            "Max": "15"
+        },
+        "Increase bet if Lose": "1.286",
+        "Trigger Change Repeat": "25",
+        "Trigger Change on LS 1": "35",
+        "Trigger Change on LS 2": "45",
+        "Trigger Change on LS 3": "55"
+    }
+}

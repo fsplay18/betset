@@ -1,0 +1,78 @@
+{
+    "Role Rumble": {
+        "Reset Jump": {
+            "If Profit": "0.5",
+            "If Win": "0"
+        },
+        "Mode": [
+            {
+                "Name": "Rumble 1",
+                "Status": "ON",
+                "Lemper Mode": "False",
+                "Base": "0.4",
+                "Balance Divider": {
+                    "Status": "OFF",
+                    "Divider": "1000000",
+                    "Recalculate on Profit": "False"
+                },
+                "Continuous Bet": "False",
+                "Increase bet after": {
+                    "Win": "1.01",
+                    "Lose": "1.11"
+                },
+                "Reset to base if": {
+                    "Win": "0",
+                    "Lose": "0",
+                    "Max Bet": "0",
+                    "Profit": "0.0000001"
+                },
+                "Chance to Win": {
+                    "Min": "94",
+                    "Max": "94"
+                },
+                "Jump to Next Mode": {
+                    "After Bet": "0",
+                    "Win Streak": "0",
+                    "Lose Streak": "0",
+                    "After Profit": "0.5",
+                    "Next Win After Bet": "0",
+                    "After Lose Amount": "0.5"
+                }
+            },
+            {
+                "Name": "Rumble 2",
+                "Status": "ON",
+                "Lemper Mode": "False",
+                "Base": "0.1",
+                "Balance Divider": {
+                    "Status": "OFF",
+                    "Divider": "1000000",
+                    "Recalculate on Profit": "True"
+                },
+                "Continuous Bet": "False",
+                "Increase bet after": {
+                    "Win": "0.85",
+                    "Lose": "1.4"
+                },
+                "Reset to base if": {
+                    "Win": "0",
+                    "Lose": "0",
+                    "Max Bet": "0",
+                    "Profit": "0.00000001"
+                },
+                "Chance to Win": {
+                    "Min": "47.5",
+                    "Max": "47.5"
+                },
+                "Jump to Next Mode": {
+                    "After Bet": "0",
+                    "Win Streak": "0",
+                    "Lose Streak": "0",
+                    "After Profit": "0.8",
+                    "Next Win After Bet": "0",
+                    "After Lose Amount": "0"
+                }
+            }
+        ]
+    }
+}

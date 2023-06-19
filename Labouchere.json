@@ -1,0 +1,13 @@
+{
+    "Labouchere": {
+        "Split Size": "20",
+        "Bet Cycle": "250",
+        "Chance": "38",
+        "Reset to Base": {
+            "Profit Reset": "0.000000001",
+            "Maxbet": "15",
+            "Max Lose": "0",
+            "Max Lose Streak": "14"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Rumble Miner": {
+        "Chance to Win": {
+            "Min": "92",
+            "Max": "95"
+        },
+        "Multi Factor": {
+            "1st Lose": "1",
+            "Next Lose": "2.15"
+        },
+        "Recover Chance": {
+            "Minimal Chance": "48.5",
+            "Replace Chance": "47.5"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Progressif": {
+        "Chance to Win": {
+            "Min": "32",
+            "Max": "57",
+            "If Win": "1.106"
+        },
+        "Chance to Lose": {
+            "Min": "79",
+            "Max": "80",
+            "If Lose": "1.311"
+        },
+        "Reset to base if Profit": "0.00005"
+    }
+}

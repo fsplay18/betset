@@ -1,0 +1,18 @@
+{
+    "Rumble-S1": {
+        "Chance on Win": {
+            "Min": "90",
+            "Max": "93"
+        },
+        "Chance on Lose": {
+            "Min": "9",
+            "Max": "23"
+        },
+        "Reset to base if": {
+            "Win": "0",
+            "Lose": "0",
+            "Max Bet": "0",
+            "Profit": "0.00000001"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Dual Mining": {
+        "Combine Profit": "True",
+        "Mode 1": {
+            "Divider": "10000000",
+            "Chance to Win": {
+                "Min": "10",
+                "Max": "30"
+            },
+            "Increase bet after": {
+                "Win": "1",
+                "Lose": "1.25"
+            }
+        },
+        "Mode 2": {
+            "Divider": "1000000",
+            "Chance to Win": {
+                "Min": "90",
+                "Max": "92"
+            },
+            "Increase bet after": {
+                "Win": "1",
+                "Lose": "1.05"
+            }
+        }
+    }
+}
